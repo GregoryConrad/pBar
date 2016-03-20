@@ -2,10 +2,15 @@
 An extremely easy way to get a higly customizable progress bar in a c++ command line application (Mac, Windows, & Linux)
 
 Author  : ETCG
+
 Website : https://etcg.github.io
+
 Contact :
+
   - email : epictincangames@gmail.com
+
   - skype : flare.cat
+
 License: Please see the LICENSE file for the license.
 
 This is programmed in c++, and is all original code.
