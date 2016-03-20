@@ -8,7 +8,6 @@ Website : https://etcg.github.io
 Contact :
 
   - email : epictincangames@gmail.com
-
   - skype : flare.cat
 
 License: Please see the LICENSE file for the license.
